@@ -1,2 +1,2 @@
 # nextjs-dashboard
-First Nextjs project
+I love coffee and tea
